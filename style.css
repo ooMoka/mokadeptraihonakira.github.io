@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+  
+  .flex-container > div {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    padding: 100px;
+    height: 380px;
+    width: 760px;
+  }
+
+h2 {
+    font-family: sans-serif;
+    margin-bottom: 77px;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.form-control me-2 {
+  padding: 200px;
+}
